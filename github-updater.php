@@ -19,8 +19,8 @@
  * Domain Path:       /languages
  * Text Domain:       github-updater
  * Network:           true
- * GitHub Plugin URI: https://github.com/afragen/github-updater
- * GitHub Branch:     master
+ * GitHub Plugin URI: https://github.com/blueblazeassociates/github-updater
+ * GitHub Branch:     blueblaze
  * GitHub Languages:  https://github.com/afragen/github-updater-translations
  * Requires WP:       4.0
  * Requires PHP:      5.3
