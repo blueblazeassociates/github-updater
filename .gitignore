@@ -1,2 +1,13 @@
 .DS_Store
 .idea
+
+# Exclude Eclipse IDE files.
+/.settings
+/.buildpath
+/.project
+
+# Exlude composer.lock file.
+/composer.lock
+
+# Exclude composer managed vendor directories.
+/vendor
